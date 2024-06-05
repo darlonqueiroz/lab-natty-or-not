@@ -23,22 +23,32 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esse Projeto é uma animação para o público infantil, com uma breve explicação sobre IA Generativa,
+todos os elementos foram pensados para fazer inclusão e prender a atenção da criança.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+Criar Texto[OpenAI](https://openai.com/index/chatgpt/)
+Criar Audio[ElevenLABS](https://elevenlabs.io/app/speech-synthesis)
+Criar animação [Adobe Express](https://www.adobe.com/br/express/)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro eu construi um texto no OpenAI sobre uma breve explicação sobre IA Generativa com linguagem infantil,
+peguei o texto e aprimorei coloquei no ElevenLabs que criou o audio,
+baixei o audio e criei um personagem e um cenario no Adobe Express e inclui o audio.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![image](https://github.com/darlonqueiroz/lab-natty-or-not/assets/57970580/f487cc41-ba93-4071-83ea-2ff0ad680bfd)
+
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
 ### Exemplos e Insigths
+
+
 
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
