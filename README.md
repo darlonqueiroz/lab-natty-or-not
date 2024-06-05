@@ -43,16 +43,14 @@ baixei o audio e criei um personagem e um cenario no Adobe Express e inclui o au
 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Em poucos minutos pode colocar meu projeto em pratica, um trabalho que levaria semanas,
+e posso ajudar outras pessoas com essas ferramentas também.
 
 ### Exemplos e Insigths
 
-
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [TEXTO]([exemplos/Texto IA Generativa.txt](https://github.com/darlonqueiroz/lab-natty-or-not/blob/main/exemplos/Texto%20IA%20Generativa.txt))
+- [AUDIO](exemplos/ElevenLabs_2024-06-05T00_52_15_Sarah_pre_s56_sb87_se0_b_m2.mp3)
+- [Vídeo)]([/exemplos/VIDEO.md](https://github.com/darlonqueiroz/lab-natty-or-not/blob/main/exemplos/Video%20Ia%20Generativa.mp4))
 
 ## Links Interessantes
 
