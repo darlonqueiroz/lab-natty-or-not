@@ -20,7 +20,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Mundo Fantastico da IA Generativa
 
 ## 📒 Descrição
 Esse Projeto é uma animação para o público infantil, com uma breve explicação sobre IA Generativa,
